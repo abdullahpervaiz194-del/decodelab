@@ -20,13 +20,15 @@ Run the Python file:
 
 python task1.py
 pyhton task2.py
+python task3.py
 
 Project Structure
-task1.py
-task2.py
 README.md
 LICENSE
 .gitignore
+task1.py
+task2.py
+task3.py
 Author
 
 Abdullah Pervaiz
