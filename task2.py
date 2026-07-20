@@ -1,5 +1,5 @@
 total=0
-print("expense tracker ")
+print("expense tracker ") 
 while True:
     expense=input("enter the expense amount (or type 'done' to quit): ")
 
