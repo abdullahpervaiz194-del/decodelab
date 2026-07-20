@@ -5,7 +5,7 @@ while True:
     print("2: view tasks")
     print("3: exit")
     choice = input("enter your choice: ")
-    if choice == "1":
+    if choice == "1": 
         task_name=input("enter the task name: ")
         task.append(task_name)
         print("task added successfully")
